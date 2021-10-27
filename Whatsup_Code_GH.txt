@@ -4,4 +4,4 @@ AUTHOR;Jasmine
 2. Chat screen code
 3. Last seen code
 4. Attachment(Image, Audio, Video)
-5. h/iding the last seen
+5. hiding the last seen
