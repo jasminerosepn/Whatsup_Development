@@ -7,3 +7,5 @@ AUTHOR;Jasmine
 5. hiding the last seen
 6. Adding the Audio call feature
 7. Adding the videocall feature
+8. Attach this Document
+9. save the document
